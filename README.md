@@ -18,6 +18,17 @@ How Blockchain can revolutionize industries, the role of AI in building decentra
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:msaudkhan18@gmail.com) 
 
+## 💎 My NFTs Collection:
+
+<p align="center">
+  <img src="https://plum-occasional-basilisk-705.mypinata.cloud/ipfs/bafybeih2x73c6wfy5pkjqhiwaq2yx2odsaklx3mbpn4utnbprcgjouocpi" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://plum-occasional-basilisk-705.mypinata.cloud/ipfs/bafybeiayrhg355gan2c7yppfjwgwxuao3cmtwi46jp26berudssekyyt3u" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://plum-occasional-basilisk-705.mypinata.cloud/ipfs/bafybeiedobovmp3vvanu34fbbjjgsbe434bag56zhy5thzgg77urnq6sty" width="200"/>
+</p>
+
+
 
 <!-- Snake Game Repo View -->
 
