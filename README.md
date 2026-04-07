@@ -16,7 +16,7 @@ New Blockchain protocols, advanced AI techniques (like reinforcement learning), 
 How Blockchain can revolutionize industries, the role of AI in building decentralized systems, or integrating IoT devices into secure ecosystems. I’m always open to discuss emerging technologies!
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:msaudkhan20@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:msaudkhan18@gmail.com) 
 
 
 <!-- Snake Game Repo View -->
